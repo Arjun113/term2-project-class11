@@ -1,0 +1,19 @@
+Software needed is as follows:
+1. Anaconda with Jupyter Notebook and PyCharm installed and updated to the latest version
+2. Visual Studio Code, if you wish to view the markdown file separately
+
+Python libraries needed:
+1. pip
+2. conda
+3. numpy
+4. pandas
+5. matplotlib
+6. seaborn
+7. keras
+8. tensorflow (preferably with NVIDIA GPU support)
+9. device-detector
+
+You need a decently powerful CPU in order to run the notebook without lag. We used an 8-core CPU but anything 4-core and above will do. 
+Please run all steps sequentially in order to allow the notebook to function properly. 
+
+If you wish to run the code using your own Google Analytics credentials, please follow the instructions given in readme.md
